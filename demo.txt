@@ -1,1 +1,8 @@
 Learning the basics of Git
+
+today i learn how to do the following:
+
+1. git init // to initialized a repository
+2. git add // to add the repo to the main branch
+3. git commit -m "message/info"// to commit changes
+4. git push -u origin // to push the change in to my github
