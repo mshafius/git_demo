@@ -6,3 +6,6 @@ today i learn how to do the following:
 2. git add // to add the repo to the main branch
 3. git commit -m "message/info"// to commit changes
 4. git push -u origin // to push the change in to my github
+
+Next challenge is to learn how to work with real packages or applications
+
